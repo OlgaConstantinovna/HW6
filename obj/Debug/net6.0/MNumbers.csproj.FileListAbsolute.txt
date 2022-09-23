@@ -1,0 +1,15 @@
+D:\HW6\MNumbers\bin\Debug\net6.0\MNumbers.exe
+D:\HW6\MNumbers\bin\Debug\net6.0\MNumbers.deps.json
+D:\HW6\MNumbers\bin\Debug\net6.0\MNumbers.runtimeconfig.json
+D:\HW6\MNumbers\bin\Debug\net6.0\MNumbers.dll
+D:\HW6\MNumbers\bin\Debug\net6.0\MNumbers.pdb
+D:\HW6\MNumbers\obj\Debug\net6.0\MNumbers.csproj.AssemblyReference.cache
+D:\HW6\MNumbers\obj\Debug\net6.0\MNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW6\MNumbers\obj\Debug\net6.0\MNumbers.AssemblyInfoInputs.cache
+D:\HW6\MNumbers\obj\Debug\net6.0\MNumbers.AssemblyInfo.cs
+D:\HW6\MNumbers\obj\Debug\net6.0\MNumbers.csproj.CoreCompileInputs.cache
+D:\HW6\MNumbers\obj\Debug\net6.0\MNumbers.dll
+D:\HW6\MNumbers\obj\Debug\net6.0\refint\MNumbers.dll
+D:\HW6\MNumbers\obj\Debug\net6.0\MNumbers.pdb
+D:\HW6\MNumbers\obj\Debug\net6.0\MNumbers.genruntimeconfig.cache
+D:\HW6\MNumbers\obj\Debug\net6.0\ref\MNumbers.dll

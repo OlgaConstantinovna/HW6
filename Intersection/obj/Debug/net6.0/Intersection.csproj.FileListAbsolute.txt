@@ -1,0 +1,15 @@
+D:\HW6\MNumbers\Intersection\bin\Debug\net6.0\Intersection.exe
+D:\HW6\MNumbers\Intersection\bin\Debug\net6.0\Intersection.deps.json
+D:\HW6\MNumbers\Intersection\bin\Debug\net6.0\Intersection.runtimeconfig.json
+D:\HW6\MNumbers\Intersection\bin\Debug\net6.0\Intersection.dll
+D:\HW6\MNumbers\Intersection\bin\Debug\net6.0\Intersection.pdb
+D:\HW6\MNumbers\Intersection\obj\Debug\net6.0\Intersection.csproj.AssemblyReference.cache
+D:\HW6\MNumbers\Intersection\obj\Debug\net6.0\Intersection.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW6\MNumbers\Intersection\obj\Debug\net6.0\Intersection.AssemblyInfoInputs.cache
+D:\HW6\MNumbers\Intersection\obj\Debug\net6.0\Intersection.AssemblyInfo.cs
+D:\HW6\MNumbers\Intersection\obj\Debug\net6.0\Intersection.csproj.CoreCompileInputs.cache
+D:\HW6\MNumbers\Intersection\obj\Debug\net6.0\Intersection.dll
+D:\HW6\MNumbers\Intersection\obj\Debug\net6.0\refint\Intersection.dll
+D:\HW6\MNumbers\Intersection\obj\Debug\net6.0\Intersection.pdb
+D:\HW6\MNumbers\Intersection\obj\Debug\net6.0\Intersection.genruntimeconfig.cache
+D:\HW6\MNumbers\Intersection\obj\Debug\net6.0\ref\Intersection.dll
